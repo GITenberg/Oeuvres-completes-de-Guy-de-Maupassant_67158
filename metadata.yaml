@@ -1,0 +1,32 @@
+_repo: Oeuvres-completes-de-Guy-de-Maupassant_67158
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - https://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_issued: '2022-01-13'
+identifiers:
+  gutenberg: '67158'
+language: fr
+pgterms:marc905: 20130403045731demaupassa
+pgterms:marc906: '1908'
+pgterms:marc907: FR
+production_note: Claudine Corbasson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: France :Louis Conard,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Oeuvres complètes de Guy de Maupassant
+url: http://www.gutenberg.org/ebooks/67158
