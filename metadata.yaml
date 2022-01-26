@@ -1,5 +1,8 @@
 _repo: Oeuvres-completes-de-Guy-de-Maupassant_67158
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67158-h/images/cover.jpg
 creator:
   author:
     agent_name: Maupassant, Guy de
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Guy_de_Maupassant
     - https://en.wikipedia.org/wiki/Guy_de_Maupassant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67158#Oeuvres-completes-de-Guy-de-Maupassant
 gutenberg_issued: '2022-01-13'
 identifiers:
   gutenberg: '67158'
